@@ -18,3 +18,7 @@ IF road is clear of traffic and object/pedestrians, turn steering wheel left at 
 ELSE IF
 Hit break and wait for green light
 
+#handle malfunctiojn 
+skdjhf
+skehf
+kwshf
