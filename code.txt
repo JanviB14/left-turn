@@ -1,0 +1,20 @@
+#  this is a pseudo code for making a left turn 
+# How to make a left turn: instructions for self-driving car
+Turning left in intersection
+IF Traffic light is green or orange {
+Ensure no object/human is Infront of you
+Slowly proceed straight at 10-15 km speed and 1-2 meters forward, once you’re in the
+middle of the intersection stop
+WHILE waiting analyze oncoming traffic
+- Traffic must be 4-5 cars away
+- IF oncoming traffic is heavy, yield, keep car stopped
+- UNTIL safe to move
+Ensure there are no pedestrians/objects on left side
+- IF there are pedestrians ensure they are at very ends of sidewalks in order to
+proceed
+IF road is clear of traffic and object/pedestrians, turn steering wheel left at 270 degrees
+- Slowly hit the gas and proceed left at 40km maximum
+}
+ELSE IF
+Hit break and wait for green light
+
